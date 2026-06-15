@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Developer;Building+digital+products;Backend+%7C+Frontend+%7C+Mobile)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-omega-orcin-45.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=FakeMoradin2&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/FakeMoradin2)
 
 </div>
@@ -254,7 +255,7 @@ Tic-tac-toe in Java with OOP — interactive board, move validation, and win det
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=7c3aed&height=44&section=header&text=Education%20%26%20Certifications&fontSize=22&fontColor=f4f4f5&alignment=center" width="100%" />
+<h3 align="center">🎓 Education and Certifications</h3>
 
 <br />
 
@@ -310,6 +311,7 @@ Secretaría de Educación Pública
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-omega-orcin-45.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octavio-chong-902ba4308/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FakeMoradin2)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:octavio.chonghdz@gmail.com)
