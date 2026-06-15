@@ -100,7 +100,7 @@ Currently studying **Software Development Engineering** at UTJ *(expected 2027)*
 
 <br />
 
-<img src="https://github-readme-streak-stats.demolab.com?user=FakeMoradin2&theme=dark&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=30363D" width="85%" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FakeMoradin2&theme=dark&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=30363D)](https://git.io/streak-stats)
 
 <br /><br />
 
